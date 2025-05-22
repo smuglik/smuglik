@@ -39,6 +39,9 @@ I'm a passionate Backend Developer with **7+ years** of commercial experience in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smuglik&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smuglik&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/smuglik?theme=light&font=Arimo&ext=activity)
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
